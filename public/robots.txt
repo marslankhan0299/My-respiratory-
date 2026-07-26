@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://topdev.com/sitemap.xml
+Sitemap: https://arslan0299.vercel.app/sitemap.xml
 Sitemap: /sitemap.xml
