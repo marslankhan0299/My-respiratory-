@@ -162,7 +162,7 @@ export default function App() {
           <div className="space-y-4">
             <h3 className="text-2xl font-display font-extrabold text-[#121214] dark:text-white">Master Profile</h3>
             <p className="text-neutral-600 dark:text-neutral-300 text-sm leading-relaxed">
-              Arslan Abdul Mateen is a motivated young professional with experience in Social Media Management, Graphic Design, Sales, and Data Entry based in Kabul, Afghanistan. 
+              Arslan Arshad is a motivated young professional with experience in Social Media Management, Graphic Design, Sales, and Data Entry based in Islamabad, PAKISTAN. 
               With a profound commitment to engaging digital content and customer interactions, he seamlessly 
               supports business growth through effective communication and marketing strategies.
             </p>
