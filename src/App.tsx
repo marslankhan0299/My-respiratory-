@@ -616,7 +616,7 @@ export default function App() {
             <div className="flex justify-between items-center">
               <span className="text-[10px] uppercase font-mono tracking-widest text-[#5c5c64] dark:text-neutral-400 font-bold">Live Projects Hub</span>
               <a 
-                href="https://tempnub.netlify.app/" 
+                href="https://get-otp-eight.vercel.app/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-xs text-blue-600 dark:text-[#c5f547] hover:text-blue-500 underline font-mono flex items-center gap-1 cursor-pointer font-bold"
