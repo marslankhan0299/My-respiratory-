@@ -116,7 +116,7 @@ export default function App() {
   const [subscribedEmails, setSubscribedEmails] = useState<string[]>(() => {
     try {
       const stored = localStorage.getItem("growth-insights-emails");
-      return stored ? JSON.parse(stored) : ["hassaan_growth@storeoperator.com", "arslan_growth@mentor.com"];
+      return stored ? JSON.parse(stored) : ["mianyasir0277@gmail.com", "arslan0299@gmail.com"];
     } catch {
       return ["hassaan_growth@storeoperator.com", "arslan_growth@mentor.com"];
     }
@@ -289,9 +289,9 @@ export default function App() {
       )}
 
       {/* SEO Optimizaton Structural Block for Googlebot */}
-      <h1 className="sr-only">Arslan Portfolio | Arslan Abdul Mateen - Social Media Manager & Graphic Designer</h1>
+      <h1 className="sr-only">Arslan Portfolio | Arslan Arshad - Social Media Manager & Graphic Designer</h1>
       <div className="sr-only">
-        Welcome to the official portfolio of Arslan Abdul Mateen. I am a Social Media Manager and Graphic Designer based in Kabul, Afghanistan. Known professionally as Arslan, my expertise spans across content creation, digital marketing, graphic design, and customer relations. Connect with Arslan for your digital growth solutions.
+        Welcome to the official portfolio of Arslan Arshad. I am a Social Media Manager and Graphic Designer based in toba tak sing, Punjab, Pakistan. Known professionally as Arslan, my expertise spans across content creation, digital marketing, graphic design, and customer relations. Connect with Arslan for your digital growth solutions.
       </div>
 
       {/* Header element aligned precisely to AliHx */}
